@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/ChatClient.dir/client.cpp.o -o /home/xiaoyao/chatServer/bin/ChatClient  -lpthread 
